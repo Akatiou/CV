@@ -1,0 +1,84 @@
+
+*{
+	box-sizing: border-box;
+	margin: auto;
+	max-width: 960px;
+}
+
+header{
+	background-color: lightgrey;
+	opacity: .9;
+	padding-bottom: 10px;
+	border-bottom: 1px solid;
+}
+
+.nom{
+	color: black;
+	text-align: center;
+	color: black;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid;
+}
+
+.nom-gros{
+	font-size: 50px;
+}
+
+/*.naissance{
+	font-size: 40px;
+}*/
+
+.ma-photo{
+	text-align: center;
+	opacity: .7;
+	border-radius: 200px;
+	max-width: 60%;
+	max-height: 15em;
+	margin: auto 360px;
+}
+
+.adresse{
+	color: black;
+	text-align: center;
+	justify-content: space-between;
+	align-items: space-between;
+
+
+}
+
+a{
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover{
+  color: red;
+}
+
+.experiences{
+border-bottom: 1px solid;
+padding: 20px;
+}
+
+.scolarite{
+border-bottom: 1px solid;
+padding: 20px;
+}
+
+.competences{
+border-bottom: 1px solid;
+padding: 20px;
+}
+
+.hobbies{
+	padding: 20px;
+}
+
+  /*background-image: url("../images/couche-de-soleil-bleu.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    	text-align: center;
+
+    		/*max-width: 100%;*/
